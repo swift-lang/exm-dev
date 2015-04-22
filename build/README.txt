@@ -1,4 +1,4 @@
-Helper scripts to configure and build Swift?T
+Helper scripts to configure and build Swift/T
 
 Copy exm-settings.sh.template to exm-settings.sh and then modify
 the variables to match your directory structure and configuration.
